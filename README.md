@@ -31,7 +31,15 @@ content/catalog.json              sports, rules (contexts), chapters, defaults
 content/tennis/usta-chicago-2027/ one file per chapter
 tests/check_content.js            checks every content file
 tools/serve.js                    local server to try the page
+CNAME, .nojekyll                  for GitHub Pages
 ```
+
+## Where it lives
+
+GitHub Pages serves the `main` branch of the repo `Anardino/racquet-rules` at
+https://rules.rallygators.com. The `CNAME` file holds that address. The domain
+needs one DNS record at Porkbun: type CNAME, host `rules`, answer `anardino.github.io`.
+To update the page: run `npm test`, commit, push. The page changes a minute or two later.
 
 ## Try it and check it
 
