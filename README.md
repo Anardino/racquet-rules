@@ -6,7 +6,7 @@ For now it is a learning support only: every question shows the answer and the r
 
 It is a static page: plain HTML, CSS and JavaScript plus question files. There is no server, no login and no build step. A player's progress is kept in their own browser.
 
-Status: built and checked on this computer. Not published yet.
+Status: published with GitHub Pages at https://rules.rallygators.com.
 
 ## How a player uses it
 
