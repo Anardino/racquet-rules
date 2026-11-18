@@ -1,0 +1,129 @@
+{
+  "points": [
+    "These calls are yours to make. Your opponent is not entitled to make them for you.",
+    "You give up the point when the ball in play touches you or anything you wear or carry, except your racket.",
+    "You give up the point when you touch the net, or touch your opponent's court, while the ball is in play.",
+    "You give up the point when you hit the ball before it crosses the net to your side.",
+    "You give up the point when the ball bounces twice on your side, or when your racket hits the ball after it left your hand.",
+    "The benefit of the doubt applies here too. If you are not sure the ball bounced twice, you give up the point."
+  ],
+  "questions": [
+    {
+      "id": "own-calls-01",
+      "q": "Who makes the call when the ball bounces twice on your side?",
+      "options": [
+        "You do",
+        "Your opponent",
+        "Either side",
+        "Whoever saw it best"
+      ],
+      "answer": 0,
+      "why": "Double bounces, touches and net touches are calls you must make against yourself. Your opponent is not entitled to make them.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-02",
+      "q": "You run for a drop shot and you are not sure you got it before the second bounce. What do you do?",
+      "options": [
+        "Give up the point",
+        "Play on. Doubt goes to the hitter",
+        "Replay the point",
+        "Let the opponent decide"
+      ],
+      "answer": 0,
+      "why": "The benefit of the doubt applies here too. If you are not sure whether it bounced twice, you give up the point.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-03",
+      "q": "During a rally the ball brushes your shirt and then lands in on the other side. What is the call?",
+      "options": [
+        "You lose the point, and you call it yourself",
+        "Play on. Only skin counts",
+        "Replay the point",
+        "You lose the point only if the opponent saw it"
+      ],
+      "answer": 0,
+      "why": "You give up the point when the ball in play touches you or anything you are wearing or carrying, except your racket.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-04",
+      "q": "You hit a volley and your racket touches the net while the ball is still in play. What is the call?",
+      "options": [
+        "You lose the point",
+        "Your point, if the ball was already past them",
+        "Replay the point",
+        "No call unless the net moved"
+      ],
+      "answer": 0,
+      "why": "You give up the point when you touch the net while the ball is in play.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-05",
+      "q": "Your opponent says you touched the net. You are sure you did not. Whose call is it?",
+      "options": [
+        "Yours",
+        "Theirs",
+        "Replay the point when you disagree",
+        "The player closest to the net"
+      ],
+      "answer": 0,
+      "why": "Touching the net is a call you make against yourself. Your opponent is not entitled to make it.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-06",
+      "q": "Chasing a short ball, your foot lands in your opponent's court while the ball is in play. What is the call?",
+      "options": [
+        "You lose the point",
+        "Legal, if you did not get in their way",
+        "Replay the point",
+        "Legal, if you had already hit the ball"
+      ],
+      "answer": 0,
+      "why": "You give up the point when you touch your opponent's court with anything while the ball is in play.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-07",
+      "q": "An easy ball is floating toward the net. You reach over and volley it before it has crossed to your side. What is the call?",
+      "options": [
+        "You lose the point",
+        "Legal, if you did not touch the net",
+        "Replay the point",
+        "Legal in doubles only"
+      ],
+      "answer": 0,
+      "why": "You give up the point when you hit the ball before it crosses the net to your side.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-08",
+      "q": "Your racket slips out of your hand, hits the ball, and the ball lands in. What is the call?",
+      "options": [
+        "You lose the point",
+        "Good shot, play on",
+        "Replay the point",
+        "Good, if the racket stays on your side"
+      ],
+      "answer": 0,
+      "why": "You give up the point when your racket hits the ball after it left your hand.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    },
+    {
+      "id": "own-calls-09",
+      "q": "The ball hits the cap on your head and goes back over the net. What is the call?",
+      "options": [
+        "You lose the point",
+        "Play on. A cap is not part of you",
+        "Replay the point",
+        "Your point, if it lands in"
+      ],
+      "answer": 0,
+      "why": "You give up the point when the ball in play touches anything you are wearing or carrying, except your racket.",
+      "ref": "Guide section 06, Calls you must make against yourself"
+    }
+  ]
+}

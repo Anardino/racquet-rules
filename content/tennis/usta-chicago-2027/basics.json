@@ -1,0 +1,101 @@
+{
+  "points": [
+    "The format is 2 sets. If each side wins one set, a 10-point match tiebreak decides the match.",
+    "If a set reaches 6-6, play a 7-point tiebreak.",
+    "Change ends every time the total number of games in the set is odd.",
+    "When a set is over, change ends if its total number of games is odd (for example 6-3). Change again after the first game of the next set.",
+    "In a tiebreak, change ends every 6 points, unless you agreed to use the Coman tiebreak."
+  ],
+  "questions": [
+    {
+      "id": "basics-01",
+      "q": "What is the match format?",
+      "options": [
+        "2 sets, then a 10-point match tiebreak if each side won a set",
+        "Best of 3 full sets",
+        "2 sets, then a 7-point tiebreak if each side won a set",
+        "One long set, first to 8 games"
+      ],
+      "answer": 0,
+      "why": "The format is 2 sets plus a 10-point match tiebreak, played only if the sets are tied at one each.",
+      "ref": "Guide section 02, The basics"
+    },
+    {
+      "id": "basics-02",
+      "q": "A regular set reaches 6-6. What happens next?",
+      "options": [
+        "A 7-point tiebreak",
+        "A 10-point tiebreak",
+        "Play on until one side leads by two games",
+        "One deciding point"
+      ],
+      "answer": 0,
+      "why": "At 6-6 in a regular set, play a 7-point tiebreak.",
+      "ref": "Guide section 02, The basics"
+    },
+    {
+      "id": "basics-03",
+      "q": "When is the 10-point match tiebreak played?",
+      "options": [
+        "Only when each side has won one set",
+        "After the second set, in every match",
+        "Whenever a set reaches 6-6",
+        "Only when both captains ask for it"
+      ],
+      "answer": 0,
+      "why": "The match tiebreak is played only if the 2 sets are tied, one set each.",
+      "ref": "Guide section 02, The basics"
+    },
+    {
+      "id": "basics-04",
+      "q": "The score in the set is 2-1. Do you change ends?",
+      "options": [
+        "Yes. The total number of games (3) is odd",
+        "No. You change after every two games",
+        "Only if the server asks for it"
+      ],
+      "answer": 0,
+      "why": "Change ends every time the total number of games in the set is odd.",
+      "ref": "Guide section 02, The basics"
+    },
+    {
+      "id": "basics-05",
+      "q": "The first set ends 6-3. What do you do about ends?",
+      "options": [
+        "Change now, and change again after the first game of the second set",
+        "Stay where you are until the first game of the second set is over",
+        "Change now, then stay for the first two games of the second set",
+        "Spin the racquet again to pick ends"
+      ],
+      "answer": 0,
+      "why": "The set had 9 games, an odd number, so you change. In the next set you change again after the first game, because 1 is odd too.",
+      "ref": "Guide section 02, The basics"
+    },
+    {
+      "id": "basics-06",
+      "q": "The first set ends 6-4. What do you do about ends?",
+      "options": [
+        "Stay for the first game of the second set, then change",
+        "Change now, and again after the first game of the second set",
+        "Change now, then stay for two games",
+        "Stay for the first two games of the second set"
+      ],
+      "answer": 0,
+      "why": "The set had 10 games, an even number, so you do not change at the end of it. You change after the first game of the next set.",
+      "ref": "Guide section 02, The basics"
+    },
+    {
+      "id": "basics-07",
+      "q": "In a standard tiebreak, when do you change ends?",
+      "options": [
+        "Every 6 points",
+        "After the first point, then every 4 points",
+        "Every 4 points",
+        "Only when the tiebreak is over"
+      ],
+      "answer": 0,
+      "why": "In a standard tiebreak you change ends every 6 points. After the first point and then every 4 is the Coman tiebreak, used only if you agreed to it.",
+      "ref": "Guide section 02, The basics"
+    }
+  ]
+}

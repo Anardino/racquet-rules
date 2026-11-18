@@ -1,0 +1,280 @@
+{
+  "local": true,
+  "points": [
+    "Before the first serve, the home captain says if the match is untimed, soft-timed or hard-stop, and what signals the end (a clock or a buzzer).",
+    "The timed procedure starts 20 minutes before the end of court time.",
+    "Finish the game in progress with no-ad scoring. If a side already has the ad, play one more point. If that makes it deuce, play one deciding point.",
+    "Then look at the set score. Two-game lead: that side wins the set. Tied: play a set tiebreak (to 7, win by 2).",
+    "One-game difference: play one more no-ad game. A two-game lead ends the set. A tie means a set tiebreak.",
+    "If that was the first set, a set tiebreak decides the second set.",
+    "If one side has 2 sets, the match is over. If each side has a set, play a 10-point match tiebreak.",
+    "Soft-timed: a tiebreak in progress is played to the end.",
+    "Hard-stop during a tiebreak: a side ahead by 2 points wins it. Tied or ahead by 1, it is recorded as a tie.",
+    "If a court ends tied, the visiting team is marked as the winner in TennisLink, because the system needs a winner.",
+    "Play stays continuous: 25 seconds between points, 90 seconds at changeovers.",
+    "Captains may come onto the court to help with the timed procedure only if the players on court ask them."
+  ],
+  "questions": [
+    {
+      "id": "timed-01",
+      "q": "When does the timed procedure start?",
+      "options": [
+        "10 minutes before the end of court time",
+        "15 minutes before the end of court time",
+        "20 minutes before the end of court time",
+        "30 minutes before the end of court time"
+      ],
+      "answer": 2,
+      "keep": true,
+      "why": "The timed procedure begins 20 minutes before the end of court time.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-02",
+      "q": "Who tells the players if the match is untimed, soft-timed or hard-stop, and what signals the end?",
+      "options": [
+        "The home captain, before the first serve",
+        "The visiting captain, before the first serve",
+        "The players on court, at the 20-minute mark",
+        "The club front desk, when time is up"
+      ],
+      "answer": 0,
+      "why": "The home captain must tell their team and the visiting captain how the match is timed, and what signals the end: a specific clock or a buzzer.",
+      "ref": "Guide section 11, Set-up"
+    },
+    {
+      "id": "timed-03",
+      "q": "The 20-minute mark comes while you are at 30-15 in a game. What do you do with this game?",
+      "options": [
+        "Finish it with no-ad scoring",
+        "Stop it and go straight to a tiebreak",
+        "Finish it with normal scoring",
+        "Start the game again with no-ad scoring"
+      ],
+      "answer": 0,
+      "why": "At the 20-minute mark, finish the game in progress using no-ad scoring.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-04",
+      "q": "The timed procedure has started and the game in progress reaches deuce. What happens?",
+      "options": [
+        "One deciding point",
+        "Play on until a side wins by two points",
+        "The server wins the game",
+        "The game is dropped and a tiebreak starts"
+      ],
+      "answer": 0,
+      "why": "The game in progress is finished with no-ad scoring. At deuce, one point decides the game.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-05",
+      "q": "The 20-minute mark comes when one side already has the ad. What do you do?",
+      "options": [
+        "Play one more point. If it goes back to deuce, play one deciding point",
+        "The side with the ad wins the game",
+        "Go back to deuce and play one deciding point",
+        "Play on with normal scoring until the game ends"
+      ],
+      "answer": 0,
+      "why": "If a side already has the ad when the procedure starts, play one more point. If that makes it deuce, play a deciding point.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-06",
+      "q": "You finish the game in progress. The set score is now 5-3. What happens?",
+      "options": [
+        "The side with 5 wins the set",
+        "Play one more no-ad game",
+        "Play a set tiebreak",
+        "Play on until someone reaches 6"
+      ],
+      "answer": 0,
+      "why": "With a two-game lead, that side wins the set.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-07",
+      "q": "You finish the game in progress. The set score is now 4-3. What happens?",
+      "options": [
+        "Play one more no-ad game",
+        "The side with 4 wins the set",
+        "Play a set tiebreak right away",
+        "Play two more no-ad games"
+      ],
+      "answer": 0,
+      "why": "With a one-game difference, play one more no-ad game.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-08",
+      "q": "At 4-3 you play the one extra no-ad game. The side that was ahead wins it, so it is 5-3. What happens?",
+      "options": [
+        "The set is over, 5-3",
+        "Play one more no-ad game",
+        "Play a set tiebreak",
+        "Play on until someone reaches 6"
+      ],
+      "answer": 0,
+      "why": "If the extra game gives a two-game lead, the set is over.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-09",
+      "q": "At 4-3 you play the one extra no-ad game. The side that was behind wins it, so it is 4-4. What happens?",
+      "options": [
+        "Play a set tiebreak: to 7, win by 2",
+        "Play one more no-ad game",
+        "Play a 10-point match tiebreak",
+        "The set is recorded as a tie"
+      ],
+      "answer": 0,
+      "why": "If the extra game makes it a tie, play a set tiebreak (to 7, win by 2).",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-10",
+      "q": "You finish the game in progress. The set score is now 3-3. What happens?",
+      "options": [
+        "Play a set tiebreak: to 7, win by 2",
+        "Play one more no-ad game",
+        "Play two more no-ad games",
+        "The set is recorded as a tie"
+      ],
+      "answer": 0,
+      "why": "If the set is tied after the game in progress, play a set tiebreak (to 7, win by 2).",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-11",
+      "q": "The set you just ended under the timed procedure was the first set. How is the second set decided?",
+      "options": [
+        "By a set tiebreak",
+        "By a 10-point match tiebreak",
+        "It is not played. The first set decides the match",
+        "By one no-ad game"
+      ],
+      "answer": 0,
+      "why": "If the set that ended was the first set, play a set tiebreak to decide the second set.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-12",
+      "q": "After the timed procedure each side has won one set. What happens?",
+      "options": [
+        "Play a 10-point match tiebreak",
+        "Play a 7-point tiebreak",
+        "The match is recorded as a tie",
+        "The winner of the first set wins the match"
+      ],
+      "answer": 0,
+      "why": "If each side has a set, play a 10-point match tiebreak.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-13",
+      "q": "After the timed procedure one side has won both sets. What happens?",
+      "options": [
+        "The match is over",
+        "Play a match tiebreak anyway",
+        "Play on until the court time ends",
+        "Play one more no-ad game"
+      ],
+      "answer": 0,
+      "why": "If one side has 2 sets, the match is over.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-14",
+      "q": "Soft-timed match. Court time runs out in the middle of a tiebreak. What happens?",
+      "options": [
+        "Play the tiebreak to the end",
+        "Stop. Whoever is ahead wins",
+        "Stop. It is recorded as a tie",
+        "Play one deciding point"
+      ],
+      "answer": 0,
+      "why": "In a soft-timed match, any tiebreak in progress is played to the end.",
+      "ref": "Guide section 11, Set-up"
+    },
+    {
+      "id": "timed-15",
+      "q": "Hard-stop match. The buzzer goes during the match tiebreak at 7-5. What is the result?",
+      "options": [
+        "The side with 7 wins the match",
+        "The match is recorded as a tie",
+        "Play one more point",
+        "Play on until someone reaches 10"
+      ],
+      "answer": 0,
+      "why": "At a hard stop during a match tiebreak, whoever is ahead by 2 points wins the match.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-16",
+      "q": "Hard-stop match. The buzzer goes during the match tiebreak at 6-5. What is the result?",
+      "options": [
+        "The match is recorded as a tie",
+        "The side with 6 wins the match",
+        "Play one more point",
+        "Play on until someone leads by 2"
+      ],
+      "answer": 0,
+      "why": "At a hard stop, a side that is tied or ahead by only 1 point does not win. The match is recorded as a tie.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-17",
+      "q": "Hard-stop match. The buzzer goes during a set tiebreak at 5-3. What is the result of the set?",
+      "options": [
+        "The side with 5 wins the set",
+        "The set is recorded as a tie",
+        "Play on until someone reaches 7",
+        "Play one deciding point"
+      ],
+      "answer": 0,
+      "why": "At a hard stop during a set tiebreak, whoever is ahead by 2 points wins the set. Tied or ahead by 1, the set is recorded as a tie.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-18",
+      "q": "Your court ends in a tie. Who is marked as the winner in TennisLink?",
+      "options": [
+        "The visiting team",
+        "The home team",
+        "Nobody. A tie is entered",
+        "The team that won the first set"
+      ],
+      "answer": 0,
+      "why": "If a court ends tied, the visiting team is marked as the winner in TennisLink, because the system requires a winner.",
+      "ref": "Guide section 11, At the 20-minute mark"
+    },
+    {
+      "id": "timed-19",
+      "q": "In the last 20 minutes, how much time do you have between points and at changeovers?",
+      "options": [
+        "The same as always: 25 seconds and 90 seconds",
+        "Half the usual time",
+        "No breaks at all, not even for water",
+        "As long as both sides agree"
+      ],
+      "answer": 0,
+      "why": "Play stays continuous: 25 seconds between points and 90 seconds on changeovers. Water and a towel are fine, but the clocks still apply.",
+      "ref": "Guide section 11, During timed play"
+    },
+    {
+      "id": "timed-20",
+      "q": "In the last 20 minutes, when may a captain come onto your court to help with the timed procedure?",
+      "options": [
+        "Only if the players on court ask",
+        "Any time the captain sees a mistake",
+        "Only if both captains come together",
+        "Never"
+      ],
+      "answer": 0,
+      "why": "Captains may come onto the court to help with timed procedures only if the players on court ask them to.",
+      "ref": "Guide section 11, During timed play"
+    }
+  ]
+}

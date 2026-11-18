@@ -1,0 +1,41 @@
+{
+  "defaults": { "sport": "tennis", "context": "usta" },
+  "sports": [
+    {
+      "id": "tennis",
+      "name": "Tennis",
+      "contexts": [
+        {
+          "id": "usta",
+          "name": "USTA",
+          "path": "tennis/usta-chicago-2027",
+          "note": "USTA League, Chicago District. For matches with no referee.",
+          "localLabel": "Chicago District rule",
+          "source": [
+            "Tennis, USTA: based on the ",
+            { "text": "2026 Friend at Court", "url": "https://www.usta.com/content/dam/usta/2026-pdfs/2026-friend-at-court.pdf" },
+            " (ITF Rules with USTA Comments, and The Code), the ",
+            { "text": "2026 USTA League Regulations", "url": "https://drive.google.com/file/d/1Ku5ob-ysquBTjSgeyloithM90DgJP-5q/view" },
+            " and the ",
+            { "text": "2027 USTA Chicago District League Rules and Procedures", "url": "https://www.usta.com/content/dam/usta/sections/midwest/pdfs/chicago/2027/chicagodistrictleaguerules2027.pdf" },
+            ". Local rules change every year, so check the current district document before each season."
+          ],
+          "chapters": [
+            { "id": "principles", "name": "General principles", "file": "principles.json" },
+            { "id": "basics", "name": "The basics", "file": "basics.json" },
+            { "id": "arriving", "name": "Arriving, set up and warm up", "file": "arriving.json" },
+            { "id": "serving", "name": "Serving", "file": "serving.json" },
+            { "id": "line-calls", "name": "Line calls", "file": "line-calls.json" },
+            { "id": "own-calls", "name": "Calls against yourself", "file": "own-calls.json" },
+            { "id": "lets", "name": "Lets, hindrances and injuries", "file": "lets.json" },
+            { "id": "border", "name": "Border cases", "file": "border.json" },
+            { "id": "disputes", "name": "Errors and disputes", "file": "disputes.json" },
+            { "id": "timed", "name": "Timed procedure", "file": "timed.json" }
+          ]
+        }
+      ]
+    },
+    { "id": "pickleball", "name": "Pickleball", "contexts": [] },
+    { "id": "platform", "name": "Platform tennis", "contexts": [] }
+  ]
+}

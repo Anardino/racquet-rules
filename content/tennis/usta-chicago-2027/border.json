@@ -1,0 +1,183 @@
+{
+  "points": [
+    "These are the cases that come up once a season.",
+    "A ball that bounces on your side and goes back over the net: you may reach over and play it, as long as you do not touch the net, the posts or their court.",
+    "A shot around the net post, even below net height, is legal if it lands in.",
+    "A ball that hits a scoring device or other object fixed to the net or post, and then lands in, loses the point.",
+    "You lose the point if you catch a ball before it bounces, or if it hits you, even when you stand outside the court.",
+    "You lose the point if you jump into their court, or if your racket flies out of your hand and lands there.",
+    "Rackets clashing in doubles is legal, unless both rackets clearly touched the ball.",
+    "A broken racket or string: finish the point with it. Then you may leave to get another one, for a reasonable time."
+  ],
+  "questions": [
+    {
+      "id": "border-01",
+      "q": "Your opponent's drop shot bounces on your side and spins back over the net. Can you reach over the net to hit it?",
+      "options": [
+        "Yes, if you do not touch the net, the posts or their court",
+        "No. You may never reach over the net",
+        "No. The point is theirs once the ball goes back",
+        "Yes, and touching the net is fine in this case"
+      ],
+      "answer": 0,
+      "why": "You may reach over the net and play it back, as long as you do not touch the net, posts or their court.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-02",
+      "q": "Pulled wide, you hit the ball around the net post, below the height of the net, and it lands in. What is the call?",
+      "options": [
+        "Good shot",
+        "You lose the point. The ball must go over the net",
+        "Replay the point",
+        "Good in singles only"
+      ],
+      "answer": 0,
+      "why": "A shot around the net post is legal. There is no requirement to clear the net.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-03",
+      "q": "Singles on a court with a doubles net. During a point you touch the net post. What is the call?",
+      "options": [
+        "Legal. Play on",
+        "You lose the point",
+        "Replay the point",
+        "You lose the point only if the net shook"
+      ],
+      "answer": 0,
+      "why": "In singles played with a doubles net, the posts and the net outside the singles line are permanent fixtures, not the net for your match.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-04",
+      "q": "Your shot hits the scoring device fixed to the net post and then drops into their court. What is the call?",
+      "options": [
+        "You lose the point",
+        "Good shot",
+        "Replay the point",
+        "Good, if it would have gone in anyway"
+      ],
+      "answer": 0,
+      "why": "A scoring device or object attached to the net or post is a permanent fixture. If your ball hits it, you lose the point.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-05",
+      "q": "Chasing a wide ball, you run past the net post and cross the line of the net, outside the post. You do not touch their court. What is the call?",
+      "options": [
+        "Legal",
+        "You lose the point",
+        "Replay the point",
+        "Legal only if you hit the ball first"
+      ],
+      "answer": 0,
+      "why": "Crossing the imaginary extension of the net, outside the post, is legal before or after hitting the ball, as long as you do not touch their court.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-06",
+      "q": "To stop yourself after a drop shot, you jump over the net into their court while the ball is in play. What is the call?",
+      "options": [
+        "You lose the point",
+        "Legal, if you did not touch the net",
+        "Replay the point",
+        "Legal, if you did not get in their way"
+      ],
+      "answer": 0,
+      "why": "If you jump over the net into their court, you lose the point.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-07",
+      "q": "Your racket flies out of your hand and lands in their court. It hits nobody. What is the call?",
+      "options": [
+        "You lose the point",
+        "Play on, if nobody was hit",
+        "Replay the point",
+        "Their choice: replay or take the point"
+      ],
+      "answer": 0,
+      "why": "If your racket flies out of your hand and lands in their court, you lose the point.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-08",
+      "q": "You stand behind the baseline and catch a ball in the air that was clearly going out. What is the call?",
+      "options": [
+        "You lose the point",
+        "Your point. The ball was going out",
+        "Replay the point",
+        "Your point, if you were outside the court"
+      ],
+      "answer": 0,
+      "why": "If you catch a ball before it bounces, you lose the point, wherever you stand, inside or outside the court.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-09",
+      "q": "You stand well outside the court. Their shot hits you before it bounces. What is the call?",
+      "options": [
+        "You lose the point",
+        "Your point. The ball was going out",
+        "Replay the point",
+        "Your point, if you tried to get out of the way"
+      ],
+      "answer": 0,
+      "why": "If the ball hits you, you lose the point. Standing outside the court does not help.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-10",
+      "q": "Doubles. You and your partner both go for a ball and your rackets clash. Only one racket touched the ball. What is the call?",
+      "options": [
+        "Legal. Play on",
+        "You lose the point",
+        "Replay the point",
+        "Legal only if the ball lands in the singles court"
+      ],
+      "answer": 0,
+      "why": "Rackets clashing is legal, unless it is clear that both rackets touched the ball.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-11",
+      "q": "Doubles. Your rackets clash and it is clear that both rackets touched the ball. What is the call?",
+      "options": [
+        "You lose the point",
+        "Legal. Play on",
+        "Replay the point",
+        "Legal, if the ball lands in"
+      ],
+      "answer": 0,
+      "why": "If it is clear that both rackets touched the ball, you lose the point.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-12",
+      "q": "A string breaks in the middle of a rally. What do you do?",
+      "options": [
+        "Finish the point with that racket, then you may get another one",
+        "Stop and replay the point",
+        "Stop. You lose the point",
+        "Finish the game with that racket before you change"
+      ],
+      "answer": 0,
+      "why": "Play on and finish the point with that racket. After the point you may leave the court to get another one, for a reasonable time.",
+      "ref": "Guide section 08, Border cases"
+    },
+    {
+      "id": "border-13",
+      "q": "Your shoe breaks during a point. When may you leave the court to fix it?",
+      "options": [
+        "After the point ends, for a reasonable time",
+        "At once. The point is replayed",
+        "Only at the next changeover",
+        "Never. You play on or retire"
+      ],
+      "answer": 0,
+      "why": "When clothing or a shoe breaks, you may leave the court after the point ends to fix it, for a reasonable time.",
+      "ref": "Guide section 08, Border cases"
+    }
+  ]
+}

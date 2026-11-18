@@ -1,0 +1,9 @@
+{
+  "name": "racquet-rules",
+  "private": true,
+  "description": "Rules quiz for club players. A static page; no build step.",
+  "scripts": {
+    "test": "node tests/check_content.js",
+    "start": "node tools/serve.js"
+  }
+}

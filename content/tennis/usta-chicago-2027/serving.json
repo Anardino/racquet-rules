@@ -1,0 +1,221 @@
+{
+  "points": [
+    "Any player may call a service let, including the server. Call it right away.",
+    "A service let on a second serve means one more second serve.",
+    "A serve that hits the receiver or the receiver's partner before it bounces is the server's point.",
+    "Tossing and catching the ball is not a fault. Swinging and missing is a fault.",
+    "A delay between first and second serve: caused by the receiver or from outside, two serves. Caused by the server, one serve.",
+    "The receiver must play at the server's reasonable pace. If you are not ready, signal before the serve motion starts. If you try to return the serve, you were ready.",
+    "Foot faults: warn first. Call one only if it goes on and is clear from your side of the net."
+  ],
+  "questions": [
+    {
+      "id": "serving-01",
+      "q": "Who may call a service let?",
+      "options": [
+        "Any player on the court, including the server",
+        "Only the receiver",
+        "Only the receiving team",
+        "Only the player closest to the net"
+      ],
+      "answer": 0,
+      "why": "Any player may call a service let, including the server.",
+      "ref": "Guide section 04, Service lets"
+    },
+    {
+      "id": "serving-02",
+      "q": "The serve looks like an ace, but you heard it touch the net. When must you call the let?",
+      "options": [
+        "At once",
+        "Any time before the next serve",
+        "At the end of the game",
+        "You cannot call a let on an ace"
+      ],
+      "answer": 0,
+      "why": "Call a service let before the return goes out of play or is hit by the serving side. On an apparent ace, call it at once.",
+      "ref": "Guide section 04, Service lets"
+    },
+    {
+      "id": "serving-03",
+      "q": "Your second serve touches the net and lands in the right box. What happens?",
+      "options": [
+        "You get one more second serve",
+        "You get two serves",
+        "It is a double fault",
+        "The serve is good and the point goes on"
+      ],
+      "answer": 0,
+      "why": "A service let on a second serve means one more second serve.",
+      "ref": "Guide section 04, Service lets"
+    },
+    {
+      "id": "serving-04",
+      "q": "Your serve hits the receiver's partner at the net before it bounces. What is the call?",
+      "options": [
+        "Your point",
+        "A fault",
+        "A let, serve again",
+        "Their point"
+      ],
+      "answer": 0,
+      "why": "A serve that hits the receiver or the receiver's partner before bouncing gives the point to the server.",
+      "ref": "Guide section 04, Service faults"
+    },
+    {
+      "id": "serving-05",
+      "q": "You toss the ball, do not like the toss, and catch it. Is it a fault?",
+      "options": [
+        "No. Toss again",
+        "Yes, it counts as a fault",
+        "Yes, if you catch it with your racket",
+        "No, but only once per game"
+      ],
+      "answer": 0,
+      "why": "Tossing and catching the ball is not a fault. You may catch it with your hand or racket, or let it bounce.",
+      "ref": "Guide section 04, Service faults"
+    },
+    {
+      "id": "serving-06",
+      "q": "You toss the ball, swing, and miss it completely. What is the call?",
+      "options": [
+        "A fault",
+        "No fault, the same as catching the toss",
+        "A let, serve again",
+        "A fault only on a second serve"
+      ],
+      "answer": 0,
+      "why": "Missing the ball entirely when you swing at it is a fault.",
+      "ref": "Guide section 04, Service faults"
+    },
+    {
+      "id": "serving-07",
+      "q": "Your first serve looked long to you, but the receiver hit it back and made no call. Do you get to replay the point?",
+      "options": [
+        "No. The serve was good and the point counts",
+        "Yes. Take your first serve again",
+        "Yes, but with a second serve",
+        "Yes, if your partner also saw it long"
+      ],
+      "answer": 0,
+      "why": "If the receiver plays a serve you thought was out and does not call it, you do not get a replay.",
+      "ref": "Guide section 04, Service faults"
+    },
+    {
+      "id": "serving-08",
+      "q": "You miss your first serve. Before your second serve the receiver stops to tie a shoe, and you wait. How many serves do you get?",
+      "options": [
+        "Two serves",
+        "One serve",
+        "One serve, and the receiver gets a warning",
+        "The receiver decides"
+      ],
+      "answer": 0,
+      "why": "If the receiver or something from outside causes a delay between first and second serve, the server gets two serves.",
+      "ref": "Guide section 04, Delays between first and second serve"
+    },
+    {
+      "id": "serving-09",
+      "q": "You miss your first serve, then stop to dry your grip and fix your hat. How many serves do you get?",
+      "options": [
+        "One serve",
+        "Two serves",
+        "Two serves, if the receiver agrees",
+        "None. It is a double fault"
+      ],
+      "answer": 0,
+      "why": "If the server causes the delay, it is still one serve.",
+      "ref": "Guide section 04, Delays between first and second serve"
+    },
+    {
+      "id": "serving-10",
+      "q": "You miss your first serve. The ball stays near the net and someone quickly clears it. Do you get two serves?",
+      "options": [
+        "Not for that alone. The receiver judges if the delay was long enough",
+        "Yes, always",
+        "Yes, if the server asks for it",
+        "No, never after a first serve fault"
+      ],
+      "answer": 0,
+      "why": "Simply having to clear a stray ball between serves is not enough to earn two serves. The receiver judges whether the delay was long enough.",
+      "ref": "Guide section 04, Delays between first and second serve"
+    },
+    {
+      "id": "serving-11",
+      "q": "During your second serve motion, a ball from the next court rolls onto your court. What happens?",
+      "options": [
+        "A let. The whole point is replayed, so you get two serves",
+        "A let. You take the second serve again",
+        "Play on. It is a fault if you miss",
+        "The receiver chooses one serve or two"
+      ],
+      "answer": 0,
+      "why": "Something from outside coming onto the court during the second serve motion is a let. The whole point is replayed, so the server gets two serves.",
+      "ref": "Guide section 04, Delays between first and second serve"
+    },
+    {
+      "id": "serving-12",
+      "q": "You are receiving and you are not ready. When must you signal it?",
+      "options": [
+        "Before the server starts the serve motion",
+        "Any time before the ball bounces",
+        "After the serve, by not swinging at it",
+        "At the next changeover"
+      ],
+      "answer": 0,
+      "why": "If you are not ready, signal before the serve motion starts. Raise a hand while the server is still getting ready.",
+      "ref": "Guide section 04, Receiver readiness"
+    },
+    {
+      "id": "serving-13",
+      "q": "You swing at a serve and miss. Then you say you were not ready. What is the call?",
+      "options": [
+        "You were ready. Server's point",
+        "Replay the point",
+        "The server takes that serve again",
+        "A let, if your partner agrees"
+      ],
+      "answer": 0,
+      "why": "A receiver who tries to return the serve is taken to be ready.",
+      "ref": "Guide section 04, Receiver readiness"
+    },
+    {
+      "id": "serving-14",
+      "q": "As the receiver, how much time can you take to get ready for each serve?",
+      "options": [
+        "You must play at the server's reasonable pace",
+        "As long as you need to feel set",
+        "Always the full 25 seconds",
+        "As long as your partner needs"
+      ],
+      "answer": 0,
+      "why": "The server may not serve until you are ready, but you must play at the server's reasonable pace.",
+      "ref": "Guide section 04, Receiver readiness"
+    },
+    {
+      "id": "serving-15",
+      "q": "You think your opponent is foot faulting. What must happen before you can call it?",
+      "options": [
+        "You warn the server first, and it goes on in a way that is clear from your side",
+        "Nothing. You can call it the first time you see it",
+        "Your captain must see it too",
+        "Someone watching must confirm it"
+      ],
+      "answer": 0,
+      "why": "The receiving side may call foot faults only after reasonable efforts such as a warning have failed, and the foot fault is clear from the receiver's side.",
+      "ref": "Guide section 04, Foot faults"
+    },
+    {
+      "id": "serving-16",
+      "q": "You warned the server about foot faults. Now they step on the line by a hair, and you are not sure from your side. Can you call it?",
+      "options": [
+        "No. If it is marginal, let it go",
+        "Yes, because you already warned them",
+        "Yes, if your partner thinks so too",
+        "Yes, but only on a second serve"
+      ],
+      "answer": 0,
+      "why": "Even after a warning, a foot fault can be called only if it is so clear that you can see it from the receiver's side. A marginal one cannot be called.",
+      "ref": "Guide section 04, Foot faults"
+    }
+  ]
+}

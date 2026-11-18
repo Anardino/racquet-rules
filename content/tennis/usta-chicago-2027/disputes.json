@@ -1,0 +1,159 @@
+{
+  "points": [
+    "Points played in good faith stand. When you find a mistake, fix it from now on.",
+    "Served from the wrong half: serve the next point from the correct half.",
+    "Forgot to change ends: swap ends at once.",
+    "Doubles, wrong partner serving: swap servers if the game is still on. If the game is over, follow the new order from now on.",
+    "Doubles, receivers on the wrong sides: it stays for the rest of that game. Go back the next time they receive in that set.",
+    "The server says the score out loud before every point. It prevents most score fights.",
+    "If you disagree on the score, keep the points and games you both agree on and replay only the disputed ones. You may not replay the whole set.",
+    "In a disagreement: stop at once, check whose call it was, give the benefit of the doubt, and keep everyone off court out of it.",
+    "If you cannot settle it, note what happened, finish the match, and let the captains take it to the District League Coordinator."
+  ],
+  "questions": [
+    {
+      "id": "disputes-01",
+      "q": "At 30-15 you notice the last point was served from the wrong half of the court. What do you do?",
+      "options": [
+        "The point stands. Serve the next point from the correct half",
+        "Replay the last point from the correct half",
+        "The server loses the last point",
+        "Start the game again"
+      ],
+      "answer": 0,
+      "why": "Points played in good faith stand. The server serves the next point from the correct half.",
+      "ref": "Guide section 09, Errors made about serving or receiving"
+    },
+    {
+      "id": "disputes-02",
+      "q": "Two points into a game, you notice you forgot to change ends after the last game. What do you do?",
+      "options": [
+        "Swap ends at once. The points played stand",
+        "Finish the game, then swap ends",
+        "Swap ends and replay the two points",
+        "Stay where you are until the next odd game"
+      ],
+      "answer": 0,
+      "why": "If you forgot to change ends, swap ends at once. Points already played stand.",
+      "ref": "Guide section 09, Errors made about serving or receiving"
+    },
+    {
+      "id": "disputes-03",
+      "q": "Doubles. In the middle of a game you notice the wrong partner is serving. What do you do?",
+      "options": [
+        "Swap servers now. The points played stand",
+        "Let that player finish the game",
+        "Replay the game with the right server",
+        "The serving team loses the game"
+      ],
+      "answer": 0,
+      "why": "If the server is out of turn and the game is still on, swap servers. Points already played stand.",
+      "ref": "Guide section 09, Errors made about serving or receiving"
+    },
+    {
+      "id": "disputes-04",
+      "q": "Doubles. After a game is over, you notice the wrong partner served all of it. What do you do?",
+      "options": [
+        "The game stands. Follow the new order from now on",
+        "Replay the game with the right server",
+        "Go back to the old order in the next service game",
+        "The serving team loses that game"
+      ],
+      "answer": 0,
+      "why": "If the game is finished, it stands, and you follow the new serving order from now on.",
+      "ref": "Guide section 09, Errors made about serving or receiving"
+    },
+    {
+      "id": "disputes-05",
+      "q": "Doubles. In the middle of a game the receivers notice they are on the wrong sides, deuce and ad swapped. What do they do?",
+      "options": [
+        "Stay that way for the rest of the game, then go back the next time they receive",
+        "Swap back at once",
+        "Replay the game from the start",
+        "Keep the new sides for the rest of the set"
+      ],
+      "answer": 0,
+      "why": "It stays wrong for the rest of that game. The receivers go back to their sides the next time they receive in that set. Points already played stand.",
+      "ref": "Guide section 09, Errors made about serving or receiving"
+    },
+    {
+      "id": "disputes-06",
+      "q": "Who says the score, and when?",
+      "options": [
+        "The server, out loud, before every point",
+        "The receiver, before every point",
+        "The server, at the start of each game only",
+        "Anyone, when someone asks"
+      ],
+      "answer": 0,
+      "why": "The server announces the score: the game score before the first point of a game, the point score before every other point. Out loud, every point.",
+      "ref": "Guide section 09, Disputes about the score"
+    },
+    {
+      "id": "disputes-07",
+      "q": "You and your opponents do not agree on the score in a game. How do you settle it?",
+      "options": [
+        "Keep the points you both agree on and replay only the disputed ones",
+        "Start the game again from love all",
+        "The server's score stands",
+        "Spin a racquet for the disputed points"
+      ],
+      "answer": 0,
+      "why": "Keep all the points and games you both agree on, and replay only the disputed ones.",
+      "ref": "Guide section 09, Disputes about the score"
+    },
+    {
+      "id": "disputes-08",
+      "q": "You cannot agree on the game score in a set. Can you start the whole set again?",
+      "options": [
+        "No. Keep what you agree on and replay only the rest",
+        "Yes, if both sides want to",
+        "Yes, if the set was less than half done",
+        "Yes, but only once per match"
+      ],
+      "answer": 0,
+      "why": "You may not replay the whole set. Keep the games you both agree on and replay only the disputed ones.",
+      "ref": "Guide section 09, Disputes about the score"
+    },
+    {
+      "id": "disputes-09",
+      "q": "Something goes wrong during a point: a distraction, a ball rolling on, a wrong score. What is the first thing to do if you want to claim it?",
+      "options": [
+        "Stop at once. The claim is gone if you play on",
+        "Finish the point, then raise it",
+        "Wait for the changeover to talk about it",
+        "Tell your captain after the match"
+      ],
+      "answer": 0,
+      "why": "Stop at once. Any claim (hindrance, let, distraction, wrong score) is gone if you play on.",
+      "ref": "Guide section 09, How to handle a divergence"
+    },
+    {
+      "id": "disputes-10",
+      "q": "You and your opponents are arguing over a line call. Your captain is watching from the side. Can you ask the captain to decide?",
+      "options": [
+        "No. Nobody off court takes part",
+        "Yes, if both sides agree to ask",
+        "Yes, if the captain saw it clearly",
+        "Yes, but only the home captain"
+      ],
+      "answer": 0,
+      "why": "Do not involve anyone off court: not your captain, your coach, players on another court or someone watching. The only exception is the timed procedure in the last 20 minutes.",
+      "ref": "Guide section 09, How to handle a divergence"
+    },
+    {
+      "id": "disputes-11",
+      "q": "You have a real disagreement and cannot settle it on court. What do you do?",
+      "options": [
+        "Note what happened, finish the match, and let the captains take it to the District League Coordinator",
+        "Stop the match and leave the court",
+        "Ask the club front desk to decide",
+        "Replay the whole match on another day"
+      ],
+      "answer": 0,
+      "local": true,
+      "why": "If you cannot settle it, note what happened, finish the match, and let the captains take it to the District League Coordinator afterward.",
+      "ref": "Guide section 09, How to handle a divergence"
+    }
+  ]
+}

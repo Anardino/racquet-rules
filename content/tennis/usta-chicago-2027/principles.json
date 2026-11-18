@@ -1,0 +1,91 @@
+{
+  "points": [
+    "There is no referee, so both sides are the referee. Each player judges their own side of the net.",
+    "There is no appeal and no replay of a point that was already decided.",
+    "A solution both sides agree to in good faith stands, even if it later turns out to be wrong.",
+    "Argue before the next point, not after the match.",
+    "Nobody except the players is involved: no spectators, captains, coaches, club staff or players on other courts.",
+    "One exception: captains may be asked onto the court to explain the timed procedure in the last 20 minutes."
+  ],
+  "questions": [
+    {
+      "id": "principles-01",
+      "q": "In a league match with no referee, who makes the calls on your side of the net?",
+      "options": [
+        "You, and your partner in doubles",
+        "Whoever had the best view, on either side",
+        "The home team captain",
+        "Both sides must agree on every call"
+      ],
+      "answer": 0,
+      "why": "Each player is the only judge of their own side of the net.",
+      "ref": "Guide section 01, General principles"
+    },
+    {
+      "id": "principles-02",
+      "q": "You and your opponents disagreed, talked it over and agreed in good faith how to settle it. After the match you learn the agreement did not follow the rules. What happens?",
+      "options": [
+        "The result stands",
+        "The point is replayed at the next match",
+        "The match result is cancelled",
+        "The team that lost the point can appeal"
+      ],
+      "answer": 0,
+      "why": "A solution both sides agree to in good faith stands, even if it later turns out to be wrong.",
+      "ref": "Guide section 01, General principles"
+    },
+    {
+      "id": "principles-03",
+      "q": "A spectator with a clear view offers to tell you if the ball was in. What do you do?",
+      "options": [
+        "Say no thanks. Only the players make calls",
+        "Accept it if both sides agree to listen",
+        "Accept it if the spectator is neutral",
+        "Ask a player on the next court instead"
+      ],
+      "answer": 0,
+      "why": "Nobody except the players is involved in a match. Do not ask others, and do not accept a call that is offered.",
+      "ref": "Guide section 01, General principles"
+    },
+    {
+      "id": "principles-04",
+      "q": "When may players ask a captain to come onto the court during a match?",
+      "options": [
+        "Only to explain the timed procedure in the last 20 minutes",
+        "To settle a line call that both sides argue about",
+        "To settle a dispute about the score",
+        "Any time both sides agree to it"
+      ],
+      "answer": 0,
+      "local": true,
+      "why": "Captains stay out of the match. The only exception is the timed procedure in the last 20 minutes.",
+      "ref": "Guide section 01, General principles"
+    },
+    {
+      "id": "principles-05",
+      "q": "You think something went wrong on a point. When is the time to raise it?",
+      "options": [
+        "Right away, before the next point is played",
+        "At the next changeover",
+        "At the end of the set",
+        "After the match, through the captains"
+      ],
+      "answer": 0,
+      "why": "Argue before the next point, not after the match. A point that was decided is not replayed later.",
+      "ref": "Guide section 01, General principles"
+    },
+    {
+      "id": "principles-06",
+      "q": "Your opponent calls your shot out. You are sure it was in. What are your options?",
+      "options": [
+        "Accept it. It is their side and their call",
+        "Ask for the point to be replayed",
+        "Ask someone watching to decide",
+        "Take the point, since you saw it clearly"
+      ],
+      "answer": 0,
+      "why": "Each player is the only judge of their own side. There is no appeal and no replay of a decided point.",
+      "ref": "Guide section 01, General principles"
+    }
+  ]
+}

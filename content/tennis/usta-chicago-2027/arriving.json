@@ -1,0 +1,203 @@
+{
+  "points": [
+    "In the Chicago District the default time is 10 minutes. A default is claimed, not automatic, and the team that was on time may waive it.",
+    "Before anyone goes on court, the home captain names the official clock and says if the match is untimed, soft-timed or hard-stop.",
+    "Agree before the match: standard tiebreak or Coman tiebreak.",
+    "Warm up is 10 minutes in total for the court, not per player.",
+    "The winner of the spin picks serve or receive, or the end, or passes the choice to the opponent.",
+    "25 seconds between points. 90 seconds at a changeover. 120 seconds after a set.",
+    "No rest after the first game of a set or during a tiebreak: change ends and keep playing."
+  ],
+  "questions": [
+    {
+      "id": "arriving-01",
+      "q": "In the Chicago District, how long after the scheduled start can a late player arrive before the opponent may claim a default?",
+      "options": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "answer": 1,
+      "keep": true,
+      "local": true,
+      "why": "The default time is 10 minutes. If a player is not on court and ready to play 10 minutes after the scheduled start, the opponent may claim a default of that match.",
+      "ref": "Guide section 03, Defaulting"
+    },
+    {
+      "id": "arriving-02",
+      "q": "Your opponent arrives 12 minutes late. Is the match lost for them automatically?",
+      "options": [
+        "No. Your team may claim the default, or waive it and play",
+        "Yes. The default is automatic after 10 minutes",
+        "No. A default can only be claimed after 20 minutes",
+        "Yes, unless the captains agree to a later start"
+      ],
+      "answer": 0,
+      "local": true,
+      "why": "A default is claimed, not automatic. The team that was on time may waive it.",
+      "ref": "Guide section 03, Defaulting"
+    },
+    {
+      "id": "arriving-03",
+      "q": "Who names the official clock for the match, and when?",
+      "options": [
+        "The home captain, before anyone goes on court",
+        "The visiting captain, before anyone goes on court",
+        "The players on each court, after the warm up",
+        "The club front desk, when time is nearly up"
+      ],
+      "answer": 0,
+      "local": true,
+      "why": "Before anyone goes on court, the home captain names the official clock and says if the match is untimed, soft-timed or hard-stop.",
+      "ref": "Guide section 03, Set-up"
+    },
+    {
+      "id": "arriving-04",
+      "q": "What is the difference between a soft-timed and a hard-stop match?",
+      "options": [
+        "Soft-timed: a tiebreak in progress is finished. Hard-stop: play ends at the set time, full stop",
+        "Soft-timed: the timed procedure is not used. Hard-stop: it is used",
+        "Soft-timed: the warm up is shorter. Hard-stop: there is no warm up",
+        "There is no difference. They are two names for the same thing"
+      ],
+      "answer": 0,
+      "local": true,
+      "why": "Both follow the timed procedure. In a soft-timed match any tiebreak in progress is played to the end. In a hard-stop match play ends at the set time.",
+      "ref": "Guide section 03, Set-up"
+    },
+    {
+      "id": "arriving-05",
+      "q": "Besides the clock, what should you agree on before the match starts?",
+      "options": [
+        "Standard tiebreak or Coman tiebreak",
+        "Whether set tiebreaks go to 7 or to 10",
+        "Who serves first in a tiebreak",
+        "How long the changeovers will be"
+      ],
+      "answer": 0,
+      "why": "Agree before the match which tiebreak you use: standard or Coman.",
+      "ref": "Guide section 03, Set-up"
+    },
+    {
+      "id": "arriving-06",
+      "q": "In a Coman tiebreak, when do you change ends?",
+      "options": [
+        "After the first point, then every 4 points",
+        "Every 6 points",
+        "Every 4 points, starting from the first point",
+        "Every 2 points"
+      ],
+      "answer": 0,
+      "why": "Coman: change ends after point 1 and then every 4 points. Standard: change every 6 points.",
+      "ref": "Guide section 03, Set-up"
+    },
+    {
+      "id": "arriving-07",
+      "q": "You walk onto the court 6 minutes into the warm up. How much warm up do you get?",
+      "options": [
+        "The 4 minutes that are left",
+        "A full 10 minutes of your own",
+        "At least 5 minutes",
+        "None. You must start cold"
+      ],
+      "answer": 0,
+      "why": "The warm up is 10 minutes in total for the court, not per player. A player who shows up during it joins in and the clock is not extended.",
+      "ref": "Guide section 03, Warm-up"
+    },
+    {
+      "id": "arriving-08",
+      "q": "You win the racquet spin. What can you do?",
+      "options": [
+        "Pick serve or receive, or pick the end, or make the opponent choose",
+        "You must serve first",
+        "Pick both who serves and which end",
+        "Pick the end only"
+      ],
+      "answer": 0,
+      "why": "The winner of the spin picks serve or receive, or the end, and the loser picks the other. The winner can also pass the choice to the opponent.",
+      "ref": "Guide section 03, Spin"
+    },
+    {
+      "id": "arriving-09",
+      "q": "You win the spin and choose to serve. What does your opponent get to choose?",
+      "options": [
+        "The end",
+        "Nothing",
+        "Who receives the first point",
+        "The tiebreak format"
+      ],
+      "answer": 0,
+      "why": "When the winner picks serve or receive, the loser picks the end.",
+      "ref": "Guide section 03, Spin"
+    },
+    {
+      "id": "arriving-10",
+      "q": "How much time is allowed between points?",
+      "options": [
+        "15 seconds",
+        "20 seconds",
+        "25 seconds",
+        "30 seconds"
+      ],
+      "answer": 2,
+      "keep": true,
+      "why": "25 seconds between points.",
+      "ref": "Guide section 03, Time between points and sets"
+    },
+    {
+      "id": "arriving-11",
+      "q": "How long is a changeover (after an odd game)?",
+      "options": [
+        "60 seconds",
+        "90 seconds",
+        "120 seconds",
+        "3 minutes"
+      ],
+      "answer": 1,
+      "keep": true,
+      "why": "90 seconds at a changeover.",
+      "ref": "Guide section 03, Time between points and sets"
+    },
+    {
+      "id": "arriving-12",
+      "q": "You change ends after the first game of a set. How much rest do you get?",
+      "options": [
+        "None. Change ends and keep playing",
+        "90 seconds, like any changeover",
+        "60 seconds",
+        "120 seconds"
+      ],
+      "answer": 0,
+      "why": "There is no rest after the first game of a set. Change ends and keep playing.",
+      "ref": "Guide section 03, Time between points and sets"
+    },
+    {
+      "id": "arriving-13",
+      "q": "You change ends during a tiebreak. How much rest do you get?",
+      "options": [
+        "None. Change ends and keep playing",
+        "90 seconds, like any changeover",
+        "60 seconds",
+        "25 seconds, sitting down"
+      ],
+      "answer": 0,
+      "why": "There is no rest during a tiebreak. Change ends and keep playing.",
+      "ref": "Guide section 03, Time between points and sets"
+    },
+    {
+      "id": "arriving-14",
+      "q": "How long is the break after a set?",
+      "options": [
+        "60 seconds",
+        "90 seconds",
+        "120 seconds",
+        "3 minutes"
+      ],
+      "answer": 2,
+      "keep": true,
+      "why": "120 seconds after a set.",
+      "ref": "Guide section 03, Time between points and sets"
+    }
+  ]
+}

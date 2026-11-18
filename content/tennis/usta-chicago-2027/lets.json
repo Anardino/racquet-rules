@@ -1,0 +1,204 @@
+{
+  "points": [
+    "Something outside your control (a ball, a person, a pet) that really gets in your way gives a let. The whole point is replayed, so the server gets two serves.",
+    "Any player on the court may call that let, as soon as they notice. You cannot play on and claim it after you miss.",
+    "Something within your control is never a let: your own hat, your own dropped ball, your own phone.",
+    "Your opponent distracts you on purpose: call a hindrance and you win the point. By accident: call a let and replay the point.",
+    "Moving and feinting with your body is legal. Waving arms or racket, stamping feet or making noise to distract is not.",
+    "Singles: do not talk during points. Doubles: talk to your partner only while the ball is coming toward you.",
+    "An injury gives a 3 minute medical timeout. After it you play on or retire. There is no extra time for cramps or tiredness."
+  ],
+  "questions": [
+    {
+      "id": "lets-01",
+      "q": "During a rally, a ball from the next court rolls behind you and puts you off. What can you do?",
+      "options": [
+        "Call a let at once. The whole point is replayed",
+        "Play on, and claim a let if you lose the point",
+        "Nothing. Only your opponent can call that let",
+        "Claim the point"
+      ],
+      "answer": 0,
+      "why": "Something outside your control that really gets in your way gives a let, and the whole point is replayed. Claim it at once.",
+      "ref": "Guide section 07, Let"
+    },
+    {
+      "id": "lets-02",
+      "q": "A ball rolls onto your court during a rally. Who may call the let?",
+      "options": [
+        "Any player on that court",
+        "Only the player closest to the ball",
+        "Only the team on that side of the net",
+        "Only the server"
+      ],
+      "answer": 0,
+      "why": "Any player on the court may call a let as soon as they notice the ball or other interference.",
+      "ref": "Guide section 07, Let"
+    },
+    {
+      "id": "lets-03",
+      "q": "The first serve was a fault. During the rally after the second serve, a let is called for a ball rolling on. How many serves does the server get?",
+      "options": [
+        "Two serves",
+        "One serve",
+        "One serve, unless the receiver offers two",
+        "The server loses the point"
+      ],
+      "answer": 0,
+      "why": "A let replays the whole point, even if the first serve was already a fault. The server gets two serves again.",
+      "ref": "Guide section 07, Let"
+    },
+    {
+      "id": "lets-04",
+      "q": "You see a ball roll onto your court, keep playing, and miss your shot. Then you ask for a let. Do you get it?",
+      "options": [
+        "No. You had to claim it at once",
+        "Yes. The ball was on the court",
+        "Yes, if your opponent saw the ball too",
+        "Yes, but only once per set"
+      ],
+      "answer": 0,
+      "why": "Claim a let at once. You cannot play on and claim it after you miss.",
+      "ref": "Guide section 07, Let"
+    },
+    {
+      "id": "lets-05",
+      "q": "Your own hat falls off in the middle of a point and puts you off. Can you call a let?",
+      "options": [
+        "No. Play on or lose the point",
+        "Yes, the first time it happens",
+        "Yes, if it landed in the court",
+        "Yes, if you stop right away"
+      ],
+      "answer": 0,
+      "why": "Something within your control is never a let. Your own hat, your own dropped ball, your own phone: no let.",
+      "ref": "Guide section 07, Let"
+    },
+    {
+      "id": "lets-06",
+      "q": "As you hit an overhead, your opponent waves their arms and shouts to put you off. You stop and claim it. What is the call?",
+      "options": [
+        "Hindrance on purpose. You win the point",
+        "A let. Replay the point",
+        "No call. Anything goes during a point",
+        "A warning the first time"
+      ],
+      "answer": 0,
+      "why": "Waving arms or making noise to distract is a hindrance. When it is on purpose, you call it and win the point.",
+      "ref": "Guide section 07, Hindrance"
+    },
+    {
+      "id": "lets-07",
+      "q": "Your opponent gets stung by a bee and cries out just as you hit. What can you do?",
+      "options": [
+        "Claim a let. The point is replayed",
+        "Claim the point",
+        "Nothing. Shouts of pain do not count",
+        "Wait and see if your shot goes in, then decide"
+      ],
+      "answer": 0,
+      "why": "A shout of pain or surprise is not on purpose, so the other side may claim a let and the point is replayed.",
+      "ref": "Guide section 07, Talking"
+    },
+    {
+      "id": "lets-08",
+      "q": "While you toss the ball to serve, the receiver's partner moves from the net back to the baseline. Is that allowed?",
+      "options": [
+        "Yes. Moving and feinting with the body is legal",
+        "No. Nobody may move during the toss",
+        "No. It is a hindrance and you win the point",
+        "Only if they told you first"
+      ],
+      "answer": 0,
+      "why": "Feinting with your body and moving position is legal at any time, also while the server is tossing.",
+      "ref": "Guide section 07, Hindrance"
+    },
+    {
+      "id": "lets-09",
+      "q": "In doubles, when is it fine to talk to your partner during a point?",
+      "options": [
+        "While the ball is coming toward your side",
+        "While the ball is going toward the opponents",
+        "At any time, if you keep it short",
+        "Never during a point"
+      ],
+      "answer": 0,
+      "why": "Talking to your partner is fine while the ball travels toward you. It is not fine while the ball travels toward your opponents.",
+      "ref": "Guide section 07, Talking"
+    },
+    {
+      "id": "lets-10",
+      "q": "Doubles. You hit a weak lob and yell 'back!' to your partner. Your opponent stops at once and claims a hindrance. What is the call?",
+      "options": [
+        "They win the point",
+        "Replay the point",
+        "No call. You may always talk to your partner",
+        "You win the point because they stopped"
+      ],
+      "answer": 0,
+      "why": "You talked while the ball was travelling toward your opponents. If they stop at once and claim it, they win the point.",
+      "ref": "Guide section 07, Talking"
+    },
+    {
+      "id": "lets-11",
+      "q": "Same lob, same yell of 'back!'. This time your opponent hits the overhead, misses it, and then claims a hindrance. What is the call?",
+      "options": [
+        "They lose the point. They claimed it too late",
+        "They win the point. The yell was a hindrance",
+        "Replay the point",
+        "Replay it, with a warning for you"
+      ],
+      "answer": 0,
+      "why": "A hindrance must be claimed at once. If they play the overhead and miss, they lose the point.",
+      "ref": "Guide section 07, Talking"
+    },
+    {
+      "id": "lets-12",
+      "q": "In singles, what is the rule about talking during a point?",
+      "options": [
+        "Do not talk. Talk that gets in the opponent's way is a hindrance",
+        "Talking is fine while the ball is on your side",
+        "Talking is fine if it is to yourself",
+        "Talking is fine until someone complains"
+      ],
+      "answer": 0,
+      "why": "Singles: do not talk during points. Any talking that interferes with your opponent playing the ball is a hindrance.",
+      "ref": "Guide section 07, Talking"
+    },
+    {
+      "id": "lets-13",
+      "q": "You twist your ankle during the match. How long is the medical timeout?",
+      "options": ["2 minutes", "3 minutes", "5 minutes", "10 minutes"],
+      "answer": 1,
+      "keep": true,
+      "why": "In case of injury you can have a 3 minute medical timeout. After it you either play on or retire.",
+      "ref": "Guide section 07, Injury, retirement"
+    },
+    {
+      "id": "lets-14",
+      "q": "Late in the second set you are worn out and cramping. Can you take extra time to recover?",
+      "options": [
+        "No. There is no extra time just to recover",
+        "Yes, one break of 3 minutes",
+        "Yes, if the opponent agrees to 5 minutes",
+        "Yes, at the next changeover only"
+      ],
+      "answer": 0,
+      "why": "No extra time is available simply to recover condition: cramps, exhaustion or catching your breath.",
+      "ref": "Guide section 07, Injury, retirement"
+    },
+    {
+      "id": "lets-15",
+      "q": "After the medical timeout you cannot go on, and you retire. What is the result?",
+      "options": [
+        "Your opponent is awarded the match",
+        "The match is recorded as a tie",
+        "The match is replayed on another day",
+        "The score stands as it was when you stopped"
+      ],
+      "answer": 0,
+      "why": "If you retire, the opponent is awarded the match.",
+      "ref": "Guide section 07, Injury, retirement"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "points": [
+    "You call every ball that lands on your side. You do not call balls on their side.",
+    "Do not call a ball out before it has bounced.",
+    "Any part of the ball touching any part of the line is good. A ball 99% out is 100% in.",
+    "A ball you cannot call out is good. There is no let for a ball you did not see.",
+    "Doubt goes to the opponent, always. This is a duty, not a courtesy.",
+    "If one partner says out and the other says good, the ball is good.",
+    "Calls must be prompt, and out calls must be heard or seen.",
+    "If you called out and then are not sure, you must reverse. The point goes to your opponent and is not replayed.",
+    "You may ask your opponent about a call that ended the point. If they give a definite opinion, you must accept it.",
+    "Except on a first serve, you can call your own ball out when you clearly see it out."
+  ],
+  "questions": [
+    {
+      "id": "line-calls-01",
+      "q": "A ball lands close to the line on your opponent's side. Whose call is it?",
+      "options": [
+        "Theirs. You do not call balls on their side",
+        "Yours, if you had the better view",
+        "Either side can call it",
+        "Whoever speaks first"
+      ],
+      "answer": 0,
+      "why": "You call every ball landing on your side. You do not call balls on their side.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-02",
+      "q": "The ball catches the very outside edge of the line. What is the call?",
+      "options": [
+        "Good",
+        "Out, because most of the ball was outside",
+        "Replay the point",
+        "Out, if both partners agree"
+      ],
+      "answer": 0,
+      "why": "Any part of the ball touching any part of the line is good. A ball 99% out is 100% in.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-03",
+      "q": "A ball lands near your baseline, and you did not see where it landed. What is the call?",
+      "options": [
+        "Good",
+        "Play a let",
+        "Out, if it felt long",
+        "Ask someone watching"
+      ],
+      "answer": 0,
+      "why": "A ball you cannot call out is good. There is no third option. Not seeing it means it was good.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-04",
+      "q": "You are fairly sure the ball was out, but not certain. What is the call?",
+      "options": [
+        "Good. Doubt goes to the opponent",
+        "Out. Fairly sure is enough",
+        "Play a let",
+        "Offer to split the next two points"
+      ],
+      "answer": 0,
+      "why": "Doubt goes to the opponent, always. This is a duty, not a courtesy.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-05",
+      "q": "In doubles, you call a ball out and your partner says it was good. What is the call?",
+      "options": [
+        "Good",
+        "Out. The closer player decides",
+        "Replay the point",
+        "Out. The first call stands"
+      ],
+      "answer": 0,
+      "why": "If one partner says out and the other says good, the ball is good.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-06",
+      "q": "A lob is still in the air and is clearly going long. Can you call it out now?",
+      "options": [
+        "No. Wait until it has bounced",
+        "Yes, if it is clearly going long",
+        "Yes, if you stand behind the baseline",
+        "Yes, if your partner agrees"
+      ],
+      "answer": 0,
+      "why": "Do not call a ball out before it has bounced on your side of the court.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-07",
+      "q": "How soon must you make an out call?",
+      "options": [
+        "At once: before your return goes out of play or the opponent can play it",
+        "Any time before the next point starts",
+        "After you see how your own return turns out",
+        "Before the end of the game"
+      ],
+      "answer": 0,
+      "why": "Calls must be prompt: before your return goes out of play, or before your opponent has a chance to play your return.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-08",
+      "q": "How must you make an out call?",
+      "options": [
+        "So the opponent can hear it or see it",
+        "Just stop playing. That is enough",
+        "Only if the opponent asks",
+        "By telling your partner quietly"
+      ],
+      "answer": 0,
+      "why": "Out calls must be heard or seen. Your opponent is entitled to a signal.",
+      "ref": "Guide section 05, Line calls guidelines"
+    },
+    {
+      "id": "line-calls-09",
+      "q": "You call a ball out. A second later you think it may have been good. What now?",
+      "options": [
+        "Reverse the call. The point goes to your opponent",
+        "Replay the point",
+        "The first call stands",
+        "Replay it the first time, lose the point the next time"
+      ],
+      "answer": 0,
+      "why": "If you called out and then are not sure, you must reverse. The point goes to your opponent and is not replayed.",
+      "ref": "Guide section 05, Reversing a call"
+    },
+    {
+      "id": "line-calls-10",
+      "q": "A ball ends the point and you ask your opponent what they saw. They say they clearly saw it. What now?",
+      "options": [
+        "You must accept what they say",
+        "You may still go with your own view",
+        "Replay the point",
+        "Ask their partner as well, and take two out of three"
+      ],
+      "answer": 0,
+      "why": "You may ask for their opinion on a call that ended the point. If they give a definite opinion, you must accept it.",
+      "ref": "Guide section 05, Asking your opponent"
+    },
+    {
+      "id": "line-calls-11",
+      "q": "You could not call a ball and you ask your opponent. They did not see it either. What is the call?",
+      "options": [
+        "Good",
+        "Replay the point",
+        "Out",
+        "The server decides"
+      ],
+      "answer": 0,
+      "why": "If neither of you has an opinion, the ball is good.",
+      "ref": "Guide section 05, Asking your opponent"
+    },
+    {
+      "id": "line-calls-12",
+      "q": "In a rally, your own shot lands on their side and you clearly see it out. They play on. What may you do?",
+      "options": [
+        "Call your own ball out and give them the point",
+        "Nothing. Only they can call it",
+        "Stop and ask for a let",
+        "Tell them after the point and replay it"
+      ],
+      "answer": 0,
+      "why": "Except on a first serve, you can call your own ball out whenever you clearly see it out, asked or not.",
+      "ref": "Guide section 05, Calling against yourself"
+    },
+    {
+      "id": "line-calls-13",
+      "q": "Your first serve looks clearly long to you, but the receiver returns it. Can you call your own first serve out?",
+      "options": [
+        "No. The first serve is the one exception",
+        "Yes, the same as any other shot",
+        "Yes, if your partner saw it too",
+        "Yes, and you take a second serve"
+      ],
+      "answer": 0,
+      "why": "You can call your own ball out when you clearly see it out, except on a first serve.",
+      "ref": "Guide section 05, Calling against yourself"
+    }
+  ]
+}
