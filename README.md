@@ -11,10 +11,16 @@ Status: published with GitHub Pages at https://rules.rallygators.com.
 ## How a player uses it
 
 1. Pick a sport (Tennis is the default) and the rules (USTA is the default).
-2. Pick a chapter. Read the key points, then tap **Learn**: every question of the chapter, with the answer and the reason after each one. At the end the player sees how many were right and can practice the ones missed.
-3. **Mixed questions** takes 15 questions from all chapters and works the same way.
+2. Pick a chapter. Read the key points, then tap **Learn**: the questions of the chapter not learned yet, with the answer and the reason after each one.
+3. **Mixed questions** takes 15 questions from all chapters, new and still learning ones first, and works the same way.
+4. **Jump back in** on the first screen goes straight to the last chapter studied, or to the next one that still has questions to learn.
 
-A question counts as "learned" when the player got it right the last time it came up.
+How a run works:
+
+- A missed question comes back a few questions later, until the player gets it right.
+- Runs are cut in rounds of 7 questions, with a short check screen between rounds.
+- A question has three levels: new, still learning, learned. It counts as "learned" after two right answers in a row. A miss sets it back to still learning.
+- While a question is open the page shows only the question (no header, no footer). On phones the Next button stays at the bottom of the screen.
 
 Links can point straight to a place, for a QR code or the hub:
 
